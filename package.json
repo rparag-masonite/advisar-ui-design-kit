@@ -1,0 +1,23 @@
+{
+  "name": "advisar-ui-design-kit",
+  "version": "1.0.0",
+  "description": "Advisar UI Design Kit",
+  "main": "AUI-v1.0.0.sketch",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rparag-masonite/advisar-ui-design-kit"
+  },
+  "keywords": [
+    "masonite",
+    "advisar"
+  ],
+  "author": "Advisar-Ryan",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/rparag-masonite/advisar-ui-design-kit/issues"
+  },
+  "homepage": "https://github.com/rparag-masonite/advisar-ui-design-kit#readme"
+}
